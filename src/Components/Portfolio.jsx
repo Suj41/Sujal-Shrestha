@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/sujalwelcomeprog.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "I am Sujal Shrestha and I am speaking at welcome programme.";
 
 /**
  * Project list
@@ -31,28 +31,29 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My Figma Design",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This is figma design of BScIT final year project i.e. Collab-pro.",
+    url: "https://www.figma.com/proto/4V93usINzIJGKH6Nf1gL0c/InfuLab?type=design&node-id=179-1133&t=YRkb9WqMJeOeqCH5-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=179%3A1133&show-proto-sidebar=1&mode=design",
+  },
+
+  {
+    title: "E-Commerce Webpage",
+    description:
+      "This is E-Commerce Webpage created using HTML, CSS and JavaScript. I have used google map api in this webpage for to add loaction services",
+    url: "https://suj41.github.io/ECommerce_Webpage/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "My Portfolio Practice",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "I have created my portfolio using HTML, CSS and JavaScript.",
+    url: "https://suj41.github.io/Portfolio_Practice/",
   },
   {
-    title: "My Resume Site",
+    title: "Python Library : Pandas",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "I have created a repository for Pandas library in python.",
+    url: "https://github.com/Suj41/Python_Pandas",
   },
 ];
 

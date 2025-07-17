@@ -25,10 +25,10 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Sujal Shrestha",
-  title: "Student",
+  title: "Teaching Assitant",
   email: "shrestha.sujal4545@gmail.com",
   gitHub: "Suj41",
-  instagram: "sujal_5.4_",
+  instagram: "iamalphabeta",
   linkedIn: "sujal-shrestha-137973214",
   medium: "",
   twitter: "",

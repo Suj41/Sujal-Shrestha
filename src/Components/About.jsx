@@ -24,18 +24,18 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "As a 21-year-old BSc.IT student at CG Insitute of Management, I have a passion for technology and a strong background in UI/UX design and Python programming, I've gained practical experience through internships and as a Microsoft Student Ambassador. This, coupled with my interest in reading, movies, and punk rock music, drives my enthusiasm for the tech industry.";
+  "I bring a strong foundation in communication skills, project management, and teaching, with a passion for educating others.  Adept at conducting impactful events and workshops, my goal is to inspire and empower individuals to take action towards a more sustainable future.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Figma",
+  "C Programming",
   "Python Programming",
-  "Canva",
-  "MS Powerpoint",
-  "My SQL",
+  "IoTs",
+  "Django Framework",
+  "Figma",
 ];
 
 /**
@@ -44,7 +44,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "Extensive experience in UI/UX design and proficiency in Python programming, coupled with the role as an executive member at Code for Change, Kathmandu, for term 22 and 23, and as a Microsoft Student Ambassador, uniquely position for driving innovation and making technology more user-friendly.";
+  "I have experience as a Project Support Intern at DigiSchool Global, where I conducted IT training and contributed to curriculum development, as a STEAM Instructor at Robo-Tech Nepal teaching robotics to school students, and currently as a Teaching Assistant at LBEF, supporting Python lab sessions and student guidance. These roles have strengthened my skills in teaching, technical training, and curriculum support.";
 
 const About = () => {
   return (
